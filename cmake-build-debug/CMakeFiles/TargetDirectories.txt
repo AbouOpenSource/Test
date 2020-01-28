@@ -1,0 +1,3 @@
+/home/abou/Bureau/COURSM1IOT/AdvancedAlgorithms/FinalProject/projettest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/abou/Bureau/COURSM1IOT/AdvancedAlgorithms/FinalProject/projettest/cmake-build-debug/CMakeFiles/projettest.dir
+/home/abou/Bureau/COURSM1IOT/AdvancedAlgorithms/FinalProject/projettest/cmake-build-debug/CMakeFiles/edit_cache.dir
